@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Template.Data": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50359;http://localhost:50363"
+    }
+  }
+}

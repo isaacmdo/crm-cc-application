@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eb5rO4PLtceo7pnJksJ6slAN1GxmT60JMKn2jeMI206uc8okvfDPpPyW5RidBxDOS2TtvVFJ+Ghh/Wv6vXwjwQ==",
+  "success": true,
+  "projectFilePath": "Z:\\PROJETOS\\PORTAL-TEMPLATE\\backend\\template-csharp-angular-portal\\Template.CrossCutting.Notification\\Template.CrossCutting.Notification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\mailkit\\3.4.1\\mailkit.3.4.1.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\mimekit\\3.4.1\\mimekit.3.4.1.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

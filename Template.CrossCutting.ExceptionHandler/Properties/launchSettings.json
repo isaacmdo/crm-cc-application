@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Template.CrossCutting.ExceptionHandler": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50355;http://localhost:50362"
+    }
+  }
+}
